@@ -15,5 +15,7 @@ How to run the program
 4. At the end, you can view the page by typing "http://localhost:8080/campgrounds" on your browser.
 
 
-
-# Currently this is a incomplete webpage that allow user to view the fake landscape details, create new landscapes, modify existing landscapes and also permit users to write down individual comments for each landscape.
+Description
+---------------
+**Currently this is a incomplete webpage that allow user to view the fake landscape details, create new landscapes, modify existing landscapes and also permit users to write down individual comments for each landscape.
+**
